@@ -12,7 +12,7 @@ body {
 }
 
 .nav {
-    background-color: black;
+    background-color: grey;
     width: 100%;
 
     display: inline-block;
@@ -41,11 +41,11 @@ body {
 
 a:link {
     text-decoration: none;
-    color: black;
+    color: grey;
 
     font-size: 35px;
 }
 
 a:visited {
-    color: green;
+    color: brown;
 }
