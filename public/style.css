@@ -96,5 +96,30 @@ body {
     margin-top: 10px;
 }
 
+.slash {
+    height: 1px;
+    width: 100px;
+    background: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 1550px;
+    bottom: 412px;
+    margin: auto;
+    transform: rotate(-45deg)
+}
+
+.backslash {
+    height: 1px;
+    width: 100px;
+    background: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 1557px;
+    bottom: 412px;
+    margin: auto;
+    transform: rotate(45deg)
+}
 
 
